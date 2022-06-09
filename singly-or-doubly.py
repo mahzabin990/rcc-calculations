@@ -12,3 +12,5 @@ if p1 >= p2:
     print('Double reinforcement')
 else:
     print('Single reinforcement')
+
+# end of program
